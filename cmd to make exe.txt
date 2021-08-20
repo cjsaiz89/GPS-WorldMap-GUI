@@ -1,0 +1,7 @@
+cd directory with python script
+make sure cx_freeze is installed with cxfreeze --version
+If not installed, run PIP install cx_freeze
+
+Make executable:
+place icon in the same directory
+cxfreeze -c WorldMap_rev2.py --target-dir dist2 --icon=map_icon.ico --base-name Win32GUI
