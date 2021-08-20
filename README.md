@@ -14,7 +14,7 @@ This app generates an interactive world map (or a smaller specified section), an
   - */world_map_file* contains source data to plot, such as Bathymetry HD, Bathymetry LD, borders and some SST files.
 
 - *WorldMap_rev2.py* is the python script to run if python is installed on your computer. All libraries must be downloaded to run the script.
-  - */world_map_files* directory should be located in the same directory as the python file.
+  - */world_map_files* directory should be located in the same directory as the python file. Extract this folder from the ZIP file.
 
 
 **Map settings**
